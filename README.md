@@ -40,7 +40,7 @@ The appplicationSettings ConnectionString where Host=db correspond to the databa
 
 ```
 "ConnectionStrings": {
-    "SchoolContext": "Host=db;Database=my_db;Username=postgres;Password=example"
+    "SchoolContext": "Host=db;Database=my_db;Username=postgres;Password=<your password>"
 }
 ```
 
